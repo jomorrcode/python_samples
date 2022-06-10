@@ -1,2 +1,2 @@
 # python_samples
-Samples of python projects
+Jupyter notebooks and code samples
